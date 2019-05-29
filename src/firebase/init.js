@@ -1,5 +1,4 @@
 import firebase from 'firebase'
-import firestore from 'firebase/firebase-firestore'
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
